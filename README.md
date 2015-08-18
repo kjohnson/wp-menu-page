@@ -1,5 +1,5 @@
-# wp-menu-page
-A base class for the WordPress
+# WP Menu Page
+A base class for the WordPress Menu Pages
 
 ## Example Menu Page
 
