@@ -17,5 +17,6 @@ final class KBJ_ExampleMenu extends KBJ_MenuPage
     {
         echo 'Hello, world!';
     }
+    
 } // End Class KBJ_ExampleMenu
 ```
