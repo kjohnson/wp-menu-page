@@ -1,5 +1,5 @@
 # WP Menu Page
-A base class for the WordPress Menu Pages
+A base class for the WordPress [Menu Pages](https://codex.wordpress.org/Function_Reference/add_menu_page)
 
 ## Example Menu Page
 
