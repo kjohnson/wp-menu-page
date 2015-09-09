@@ -52,7 +52,7 @@ abstract class KBJ_MenuPage
      *
      * @var string
      */
-    public $position = '100';
+    public $position = NULL;
 
     /**
      * Constructor
