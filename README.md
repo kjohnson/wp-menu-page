@@ -1,4 +1,6 @@
 # WP Menu Page
+
+[![Join the chat at https://gitter.im/kjohnson/wp-menu-page](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjohnson/wp-menu-page?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A base class for the WordPress [Menu Pages](https://codex.wordpress.org/Function_Reference/add_menu_page)
 
 ## Example Menu Page
